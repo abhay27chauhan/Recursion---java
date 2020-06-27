@@ -1,19 +1,19 @@
 class displayArray{
 
-    public static void displayArray(int [] arr, int n){
-        if(n==-1){
+    public static void displayArray(int [] arr, int vidx){
+        if(vidx==arr.length){
             return;
         }
         
-        displayArray(arr, n-1);
-        System.out.print(arr[n] + " ");
+        System.out.print(arr[vidx] + " ");
+        displayArray(arr, vidx + 1);
     }
 
     public static void main(String[] args){
 
         int [] arr = {1,2,3,4,5,6};
 
-        displayArray(arr,5);
+        displayArray(arr,0);
         System.out.println();
     }
 }
