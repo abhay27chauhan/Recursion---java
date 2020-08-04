@@ -18,3 +18,4 @@ getMazePaths.class
 printSubsequence.class
 printKPC.class
 getMazePathWithJumps.class
+printStairPaths.class
