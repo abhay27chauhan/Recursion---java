@@ -20,3 +20,4 @@ printKPC.class
 getMazePathWithJumps.class
 printStairPaths.class
 printMazePaths.class
+printMazePathsWithJumps.class
