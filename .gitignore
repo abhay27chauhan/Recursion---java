@@ -21,3 +21,4 @@ getMazePathWithJumps.class
 printStairPaths.class
 printMazePaths.class
 printMazePathsWithJumps.class
+printPermutations.class
