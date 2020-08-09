@@ -25,3 +25,4 @@ printPermutations.class
 getPermutations.class
 floodFill.class
 targetSum.class
+printNQueens.class
