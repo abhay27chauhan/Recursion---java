@@ -26,3 +26,4 @@ getPermutations.class
 floodFill.class
 targetSum.class
 printNQueens.class
+printKnightsTour.class
